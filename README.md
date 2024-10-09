@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Prithis Karmakar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi there 👋, I am Prithis</h1>
+<h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithis-k&label=Profile%20views&color=0e75b6&style=flat" alt="prithis-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithis-k" alt="prithis-k" /></a> </p>
-
 - 🌱 I’m currently learning **Power BI, SQL, Python**
+
+- 👯 I’m looking forward to **explore new exciting opportunities in Data Analyst**
 
 - 📫 How to reach me **bubun.prithis@gmail.com**
 
@@ -16,7 +16,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithis-k&show_icons=true&locale=en&layout=compact" alt="prithis-k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithis-k&show_icons=true&locale=en" alt="prithis-k" /></p>
